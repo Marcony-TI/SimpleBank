@@ -1,4 +1,4 @@
-package Aula_05.Atividades.Circulo;
+package Aula_05.Circulo;
 import java.util.Scanner;
 //classe
 public class Circulo {
